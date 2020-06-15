@@ -1,5 +1,10 @@
 # Must-do-coding-links
 LeetCode:
+https://leetcode.com/explore/interview/card/top-interview-questions-easy
+https://leetcode.com/explore/interview/card/top-interview-questions-medium
+https://leetcode.com/explore/interview/card/top-interview-questions-hard
+
+extra
 https://leetcode.com/list/xi4ci4ig/
 https://leetcode.com/problemset/top-100-liked-questions/
 

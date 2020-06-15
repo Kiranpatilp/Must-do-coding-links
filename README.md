@@ -1,6 +1,5 @@
 # Must-do-coding-links
 LeetCode:
-
 https://leetcode.com/explore/interview/card/top-interview-questions-easy
 https://leetcode.com/explore/interview/card/top-interview-questions-medium
 https://leetcode.com/explore/interview/card/top-interview-questions-hard

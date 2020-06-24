@@ -4,6 +4,11 @@ https://leetcode.com/explore/interview/card/top-interview-questions-easy
 https://leetcode.com/explore/interview/card/top-interview-questions-medium
 https://leetcode.com/explore/interview/card/top-interview-questions-hard
 
+
+Data structures LLDs:
+https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit#heading=h.jp4hsqff7zhm
+
+
 extra
 https://leetcode.com/list/xi4ci4ig/
 https://leetcode.com/problemset/top-100-liked-questions/
